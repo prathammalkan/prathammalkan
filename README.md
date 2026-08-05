@@ -1,158 +1,805 @@
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                     -->
+<!--                 Designed by Pratham Malkan                -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# PRATHAM MALKAN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7F5AF0,50:2CB67D,100:00C2FF&text=PRATHAM%20MALKAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20•%20Web%20Developer%20•%20Cybersecurity%20Student&descAlignY=58"/>
 
-### Creative Technologist • Designer • Developer • eSports Enthusiast
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Interactive+Digital+Experiences;Design+%E2%80%A2+Development+%E2%80%A2+Gaming;Crafting+Modern+Web+Experiences;Creating+for+Communities+%26+Creators" />
+<h1 align="center">
+Hi 👋 I'm Pratham Malkan
+</h1>
+
+<h3 align="center">
+
+Creative Designer • Flutter Developer • UI/UX Engineer • Web Developer • Video Editor • MSc Cyber Security Student
+
+</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+Beautiful+Digital+Experiences.;Flutter+Developer.;Creative+UI%2FUX+Designer.;Cyber+Security+Learner.;Founder+of+NisFlow.;Always+Learning.+Always+Building."/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+<div align="center">
+
+### ⚡ "Design with Purpose. Build with Precision."
+
+</div>
+
+---
+
+# 🚀 About Me
 
 ```yaml
-Name: Pratham Malkan
-Role: Creative Technologist
+Name:
+   Pratham Malkan
 
-Focus:
-  - Modern Web Development
-  - UI/UX Experiences
-  - Motion Graphics
-  - Gaming & eSports Content
+Role:
+   Creative Designer
+   Flutter Developer
+   UI/UX Engineer
+   Web Developer
+   MSc Cyber Security Student
 
-Currently Learning:
-  - React / Next.js
-  - Interactive UI
-  - AI-powered workflows
+Current Focus:
+   Building NisFlow
+   Learning Cyber Security
+   Flutter Development
+   Premium UI/UX
+   Graphic Design
+   AI Powered Applications
 
-Strengths:
-  - Creative Thinking
-  - Fast Execution
-  - Design + Development Combination
+Mission:
+   Build products people genuinely love using.
+
+Dream:
+   Become one of India's best Product Engineers.
 ```
 
 ---
 
-# 🌐 NODES
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/pratham.designz?igsh=MTEweXQwZWp6enFscw==)
-
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=X)](https://x.com/PrathamM1310)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pratham-malkan-aa2388376)
-
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/YFaEx7A2)
-
-</div>
-
----
-
-# ⚡ Tech Arsenal
-
----
-
-## 🎨 Creative & Motion
-
-<div align="left">
-
-![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
-![After Effects](https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects)
-![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
-![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-
-</div>
-
----
-
-## 💻 Frontend Engineering
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-
-</div>
-
----
-
-## ⚙️ Backend & APIs
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
-
-</div>
-
----
-
-## ☁️ Cloud & Deployment
-
-<div align="left">
-
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
-![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-
-</div>
-
----
-
-## 🤖 AI Workflow
-
-<div align="left">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-111111?style=for-the-badge&logo=google)
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-## 🔹 LostLink
-Modern lost & found platform with authentication and reporting workflow.
-
-## 🔹 MobStore
-E-commerce application with warranty and service management system.
-
-## 🔹 Burger Villa Media
-Created engaging motion edits and social media content for brand growth.
-
----
-
-# 🎨 Creative Philosophy
+# 🧠 Current Journey
 
 ```text
-Design should feel alive.
-Development should feel invisible.
-Experiences should feel memorable.
+🎓 MSc Cyber Security
+
+🎨 Graphic Design
+
+📱 Flutter Development
+
+🌐 Modern Web Development
+
+🛡️ Ethical Hacking
+
+🎬 Professional Video Editing
+
+✨ Premium UI/UX Design
+
+🚀 Startup Building
 ```
 
 ---
 
-# 🎧 Currently Vibing To
+# 🌌 Featured Project
+
+## 🚀 NisFlow
+
+> Everything That Matters.
+
+A premium offline-first Life Operating System designed to unify productivity, finance, health, habits, journals, AI assistance, analytics, and daily workflows into one seamless experience.
+
+```
+Status        ████████████████████  Active
+
+Design        ████████████████████
+
+Architecture  ████████████████████
+
+Development   ███████████████░░░░
+
+Launch        ███████░░░░░░░░░░░░
+```
+
+---
+
+# ⚡ Philosophy
+
+```text
+Design is not decoration.
+
+Design is how software feels.
+
+Performance is a feature.
+
+Consistency creates trust.
+
+Details create premium experiences.
+```
+
+---
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify.com)
+## 🌍 Visitor Counter
+
+![](https://komarev.com/ghpvc/?username=Immortal-PN&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Profile Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=Immortal-PN&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Immortal-PN&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Immortal-PN&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-PN&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:2CB67D&height=120&section=footer"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  TECH STACK SECTION                        -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# ⚡ Tech Universe
+
+<div align="center">
+
+### 🚀 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,ts,html,css"/>
+
+</p>
+
+---
+
+### 📱 App Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio"/>
+
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
+
+</p>
+
+---
+
+### 💾 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite"/>
+
+</p>
+
+---
+
+### ☁ Cloud & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify"/>
+
+</p>
+
+---
+
+### 🛠 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm"/>
+
+</p>
+
+---
+
+### 🎨 Design Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae"/>
+
+</p>
+
+</div>
+
+---
+
+# 🎯 What I Build
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 UI / UX
+
+- Premium Interfaces
+- Design Systems
+- User Research
+- Mobile UI
+- Web UI
+- Micro Interactions
+- Responsive Design
+
+</td>
+
+<td width="50%">
+
+### 💻 Development
+
+- Flutter Apps
+- Websites
+- Dashboards
+- Admin Panels
+- REST APIs
+- Firebase
+- Offline-first Apps
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛡 Cyber Security
+
+```text
+Currently Learning
+
+███████████████░░░░░░░░░
+
+✔ Network Security
+
+✔ Linux
+
+✔ Ethical Hacking
+
+✔ Digital Forensics
+
+✔ Web Security
+
+✔ Cryptography
+
+✔ Incident Response
+
+✔ Secure Development
+```
+
+---
+
+# 🎬 Creative Skills
+
+```text
+Graphic Design
+
+███████████████████████████
+
+Video Editing
+
+██████████████████████████
+
+Brand Identity
+
+████████████████████████
+
+Motion Graphics
+
+███████████████████████
+
+UI/UX
+
+██████████████████████████
+```
+
+---
+
+# 📈 Development Workflow
+
+```text
+
+        💡 IDEA
+           │
+           ▼
+     Wireframing
+           │
+           ▼
+      UI / UX Design
+           │
+           ▼
+      Prototype
+           │
+           ▼
+     Flutter / Web
+           │
+           ▼
+        Testing
+           │
+           ▼
+      Optimization
+           │
+           ▼
+        Deploy 🚀
+
+```
+
+---
+
+# ⚙ Development Principles
+
+✔ Clean Architecture
+
+✔ Reusable Components
+
+✔ Pixel Perfect UI
+
+✔ Performance First
+
+✔ Accessibility
+
+✔ Maintainability
+
+✔ Scalability
+
+✔ Consistency
+
+✔ User Experience
+
+✔ Modern Design
+
+---
+
+# 📚 Currently Exploring
+
+```text
+Flutter Advanced Architecture
+
+Cyber Security
+
+AI Applications
+
+Clean Code
+
+System Design
+
+Product Engineering
+
+Cloud Computing
+
+Automation
+```
+
+---
+
+# 🌟 Daily Mindset
+
+> Learn.
+>
+> Build.
+>
+> Improve.
+>
+> Repeat.
+
+---
+
+<div align="center">
+
+## ⚡ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📅 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Immortal-PN&theme=tokyo-night&hide_border=true)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> **Turning ideas into premium digital experiences.**
+
+</div>
+
+---
+
+## 🌌 NisFlow
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Platform-Flutter-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Offline%20First-YES-orange?style=for-the-badge"/>
+
+</p>
+
+### 🌟 Everything That Matters.
+
+NisFlow is a premium AI-powered Life Operating System that combines productivity, finance, habits, journals, health, schedules, AI, analytics and daily planning into one beautifully designed experience.
+
+### ✨ Features
+
+- Offline First
+- AI Powered
+- Secure Storage
+- Modern UI
+- Fast Performance
+- Cross Platform
+- Analytics
+- Smart Search
+
+---
+
+## 💎 Veloura Luxury
+
+Luxury Jewellery Brand Experience
+
+```
+✓ Premium UI
+
+✓ Elegant Shopping Experience
+
+✓ Mobile First
+
+✓ Responsive Design
+
+✓ Luxury Branding
+
+✓ Modern Animations
+```
+
+---
+
+## 🎮 GameZone
+
+Gaming Café & Device Booking Platform
+
+```
+✓ Device Booking
+
+✓ Gaming Dashboard
+
+✓ Admin Panel
+
+✓ Real Time Updates
+
+✓ Modern UI
+
+✓ User Authentication
+```
+
+---
+
+## 🌸 Floralyn
+
+Premium Nail Art Brand
+
+```
+✓ Brand Identity
+
+✓ Social Media Design
+
+✓ Creative Direction
+
+✓ Luxury Visuals
+
+✓ Product Presentation
+```
+
+---
+
+## 🔐 Cyber Security Lab
+
+A collection of personal cybersecurity practice projects.
+
+```
+Linux
+
+Networking
+
+Digital Forensics
+
+Ethical Hacking
+
+Web Security
+
+Python Automation
+
+OWASP
+
+Security Research
+```
+
+---
+
+# 📊 Development Metrics
+
+```
+Flutter Development
+
+███████████████████████░░
+
+Web Development
+
+█████████████████████░░░░
+
+UI/UX Design
+
+█████████████████████████
+
+Graphic Design
+
+██████████████████████████
+
+Cyber Security
+
+██████████████████░░░░░░░
+
+Video Editing
+
+██████████████████████████
+```
+
+---
+
+# 🏅 Achievements
+
+🏆 Creative Designer
+
+🏆 Flutter Developer
+
+🏆 UI/UX Enthusiast
+
+🏆 Video Editor
+
+🏆 Startup Builder
+
+🏆 Continuous Learner
+
+🏆 Cyber Security Student
+
+🏆 Open Source Enthusiast
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Launch NisFlow
+
+- 📱 Master Flutter
+
+- 🛡 Master Cyber Security
+
+- 🌍 Build Global Products
+
+- 🤝 Contribute to Open Source
+
+- 📈 Become a Product Engineer
+
+---
+
+# ⚡ Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Immortal-PN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://stackoverflow.com">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌟 My Workflow
+
+```text
+
+        🎯 PLAN
+
+            │
+
+            ▼
+
+      🎨 DESIGN
+
+            │
+
+            ▼
+
+      💻 DEVELOP
+
+            │
+
+            ▼
+
+      🧪 TEST
+
+            │
+
+            ▼
+
+      🚀 DEPLOY
+
+            │
+
+            ▼
+
+     🔄 IMPROVE
+
+```
+
+---
+
+# 💻 What Makes Me Different?
+
+✔ Premium UI Focus
+
+✔ User-Centered Design
+
+✔ Performance First
+
+✔ Clean Architecture
+
+✔ Beautiful Motion
+
+✔ Pixel Perfect Interfaces
+
+✔ Scalable Systems
+
+✔ Modern Technologies
+
+✔ Continuous Improvement
+
+✔ Problem Solving
+
+---
+
+# 📈 GitHub Summary
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Immortal-PN&theme=tokyonight"/>
+
+<br><br>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Immortal-PN&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Immortal-PN&theme=tokyonight"/>
+
+<br><br>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Immortal-PN&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Immortal-PN&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🔥 Fun Fact
+
+> **I don't just build apps.**
+>
+> **I engineer experiences that people remember.**
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:00C2FF,50:7F5AF0,100:2CB67D"/>
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Immortal-PN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_X">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</div>
+
+---
+
+# 📈 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Immortal-PN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Immortal-PN&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -160,35 +807,111 @@ Experiences should feel memorable.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> **Note:** This animation **won't work automatically**. It requires a GitHub Actions workflow in your profile repository to generate the SVG.
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Current Focus
+
+```text
+🚀 Building Premium Products
+
+🛡 Learning Cyber Security
+
+📱 Flutter Development
+
+🌐 Modern Web Applications
+
+🎨 UI / UX Engineering
+
+🤖 AI-powered Experiences
+
+☁ Cloud Technologies
+
+📚 Continuous Learning
+```
+
+---
+
+# 💬 Dev Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-# 📊 Activity Graph
+# 📊 Visitor Counter
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Immortal-PN&style=for-the-badge&color=blueviolet)
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 📅 GitHub Activity Graph
 
-- 📧 malkanpratham@gmail.com
-- 🌐 Portfolio: Coming Soon
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Immortal-PN&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# ⚡ Philosophy
+
+> **Code with logic.**
+>
+> **Design with empathy.**
+>
+> **Secure by default.**
+>
+> **Keep learning.**
+>
+> **Never stop improving.**
+
+---
+
+# ☕ Support My Work
+
+If you enjoy my projects, consider giving them a ⭐.
+
+Open source grows through collaboration.
+
+---
+
+# 📌 Currently Working On
+
+- 🚀 NisFlow
+- 📱 Flutter Applications
+- 🛡 Cyber Security
+- 🌐 Full Stack Development
+- 🎨 Premium UI/UX
+- 🤖 AI Integrations
 
 ---
 
 <div align="center">
 
-### ⚡ Design • Develop • Create • Repeat
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=800&center=true&vCenter=true&repeat=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!;Keep+Building!;Stay+Curious!"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7F5AF0,50:00C2FF,100:2CB67D"/>
 
 </div>
